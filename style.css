@@ -1,0 +1,52 @@
+body{
+
+    margin: 0;
+    background-image: url(giphy.gif);
+    padding: 25px;
+    color: white;
+    font-size: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+
+}
+.container{
+    height: 100px;
+    text-align: center;
+    margin: 300px;
+    font-size: 25px;
+}
+
+  button {
+   
+    padding: 20px;
+   
+    border: #df0808;
+   
+    border-radius: 10px;
+   
+    position: static;
+   
+    }
+   
+    input {
+   
+    background-color: aqua;
+   
+    padding: 20px;
+   
+    align-items: center;
+   
+    justify-content: center;
+   
+    }
+   
+    form.h3{
+   
+    align-items: center;
+   
+    display: flex;
+   
+    justify-content: center;
+    }
